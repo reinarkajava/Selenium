@@ -1,0 +1,2 @@
+[6690:6690:0220/112440.290981:ERROR:ozone_platform_x11.cc(245)] Missing X server or $DISPLAY
+[6690:6690:0220/112440.291058:ERROR:env.cc(257)] The platform failed to initialize.  Exiting.
